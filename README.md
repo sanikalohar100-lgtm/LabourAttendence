@@ -22,8 +22,8 @@ The app allows users to manage daily attendance, overtime, salary, and employee 
 ### 🏠 Dashboard & Attendance
 
 <p align="center">
-  <img src="screenshots/home.png" width="220">
   <img src="screenshots/img3.jpeg" width="220">
+  <img src="screenshots/img4.jpeg" width="220">
   <img src="screenshots/img5.jpeg" width="220">
 </p>
 
