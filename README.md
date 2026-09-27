@@ -62,9 +62,6 @@ The app allows users to manage daily attendance, overtime, salary, and employee 
 * Hive
 * SharedPreferences
 * Local Authentication
-* REST API
-* Spring Boot
-* MySQL
 
 ---
 
