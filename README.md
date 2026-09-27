@@ -6,17 +6,16 @@ The app allows users to manage daily attendance, overtime, salary, and employee 
 
 ## ✨ Features
 
-- 📅 **Attendance Calendar** — View and manage daily and monthly attendance records
-- ✅ **Present / Absent Attendance** — Mark and track employee attendance
-- ⏱️ **Overtime Management** — Track and manage overtime hours
-- 💰 **Salary Calculation** — Calculate salary based on attendance and overtime
-- 📄 **Salary Slip PDF** — Generate salary slips in PDF format
-- 📝 **Attendance Notes** — Add notes and additional information for attendance records
-- ⚙️ **Employee Settings** — Manage employee and attendance-related settings
-- 🔐 **Biometric App Lock** — Secure the application using biometric authentication
-- 🌐 **Marathi & English Support** — Switch between Marathi and English
-- 💾 **Local Data Storage** — Store application data locally using Hive
-- 📊 **Attendance Reports** — View attendance and overtime information
+📅 Calendar-based Attendance Management — View and manage employee attendance records
+✅ Present / Absent Attendance — Mark daily employee attendance
+⏱️ Overtime Management — Manage employee overtime records
+📊 Monthly Attendance Summary — View monthly attendance information
+📝 Attendance Notes — Add notes and additional details to attendance records
+💾 Local Data Storage — Store application data locally using Hive
+🔄 Application State Management — Manage application state using SharedPreferences
+🌐 Marathi & English Support — Available in both Marathi and English
+🔐 Biometric App Lock — Secure the application using biometric authentication
+📱 User-Friendly Dashboard — Simple and easy-to-use interface for managing labour attendance
 
 ---
 
